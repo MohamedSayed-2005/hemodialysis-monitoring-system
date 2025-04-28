@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+SQLAlchemy
+qrcode
+pillow
+pyserial
